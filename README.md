@@ -6,10 +6,10 @@ todo
 
 ## versions
 
-- next v9.5.5
-- react 17.0.1
-- react-dom 17.0.1
-- styled-components 5.2.0
+- next v10.0.0
+- react v17.0.1
+- react-dom v17.0.1
+- styled-components v5.2.0
 
 ## packages
 
