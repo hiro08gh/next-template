@@ -19,6 +19,7 @@
     "styled-normalize": "8.0.7"
   },
   "devDependencies": {
+    "@hiro08/eslint-config": "^0.0.8",
     "@types/enzyme": "3.10.7",
     "@types/enzyme-adapter-react-16": "1.0.6",
     "@types/jest": "26.0.15",

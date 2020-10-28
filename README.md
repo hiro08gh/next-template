@@ -11,6 +11,10 @@ todo
 - react-dom 17.0.1
 - styled-components 5.2.0
 
+## packages
+
+- [@hiro08/eslint-config](https://github.com/hiro08gh/eslint-config)
+
 ## setup
 
 ```bash
