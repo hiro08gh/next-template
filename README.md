@@ -10,6 +10,7 @@ todo
 - react v17.0.1
 - react-dom v17.0.1
 - styled-components v5.2.0
+- storybook v6.1.9
 
 ## packages
 
@@ -25,4 +26,10 @@ and start server.
 
 ```bash
 $ yarn run dev
+```
+
+## storybook
+
+```bash
+$ yarn storybook
 ```
