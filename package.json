@@ -10,9 +10,7 @@
     "lint": "eslint .",
     "test": "jest",
     "test:watch": "jest --watch",
-    "test:coverage": "jest --coverage",
-    "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "test:coverage": "jest --coverage"
   },
   "dependencies": {
     "next": "10.0.0",
@@ -24,10 +22,6 @@
   "devDependencies": {
     "@babel/core": "^7.12.9",
     "@hiro08/eslint-config": "1.0.3",
-    "@storybook/addon-actions": "^6.1.9",
-    "@storybook/addon-essentials": "^6.1.9",
-    "@storybook/addon-links": "^6.1.9",
-    "@storybook/react": "^6.1.9",
     "@types/enzyme": "3.10.7",
     "@types/enzyme-adapter-react-16": "1.0.6",
     "@types/jest": "26.0.15",
