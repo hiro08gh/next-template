@@ -24,7 +24,7 @@
     "@hiro08/eslint-config": "1.0.3",
     "@types/enzyme": "3.10.7",
     "@types/enzyme-adapter-react-16": "1.0.6",
-    "@types/jest": "26.0.15",
+    "@types/jest": "26.0.20",
     "@types/node": "14.14.3",
     "@types/react": "^17.0.0",
     "babel-loader": "^8.2.2",
